@@ -1,0 +1,26 @@
+html{
+    background-color: lightcoral;
+}
+body{
+    border: 5px solid coral;
+    background-color: lightcoral;
+}
+img{
+    float: none;
+    margin-left: 180px;
+    margin-right:180px;
+    margin-top:60px;
+}
+img#image{
+    float: right;
+    padding-top: 60px;
+    padding-right:60px;
+    padding-left:-60px;
+}
+form{
+    background-color: lightpink;
+}
+a{
+    float:left;
+    margin-top:330px;
+}
